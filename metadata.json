@@ -1,0 +1,6 @@
+{
+  "name": "Freight Quote AI",
+  "description": "Intelligent Freight Quote Management System for real-time freight rates, distance calculations, automated quotations, and shipment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
